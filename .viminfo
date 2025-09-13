@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1757779219,,"wq!"
+|2,0,1757780081,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -25,20 +25,39 @@
 # Registers:
 
 # File marks:
-'0  1  17  ~/devopsscripts/ganesh.html
-|4,48,1,17,1757779219,"~/devopsscripts/ganesh.html"
-'1  1  0  ~/index.html
-|4,49,1,0,1757774139,"~/index.html"
+'0  2  0  ~/madishetti
+|4,48,2,0,1757780081,"~/madishetti"
+'1  1  17  ~/devopsscripts/ganesh.html
+|4,49,1,17,1757779219,"~/devopsscripts/ganesh.html"
+'2  1  0  ~/index.html
+|4,50,1,0,1757774139,"~/index.html"
 
 # Jumplist (newest first):
+-'  2  0  ~/madishetti
+|4,39,2,0,1757780081,"~/madishetti"
+-'  1  0  ~/madishetti
+|4,39,1,0,1757780060,"~/madishetti"
+-'  1  17  ~/devopsscripts/ganesh.html
+|4,39,1,17,1757779219,"~/devopsscripts/ganesh.html"
 -'  1  17  ~/devopsscripts/ganesh.html
 |4,39,1,17,1757779219,"~/devopsscripts/ganesh.html"
 -'  1  0  ~/index.html
 |4,39,1,0,1757774139,"~/index.html"
 -'  1  0  ~/index.html
 |4,39,1,0,1757774139,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1757774139,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1757774139,"~/index.html"
 
 # History of marks within files (newest to oldest):
+
+> ~/madishetti
+	*	1757780077	0
+	"	2	0
+	^	2	0
+	.	1	18
+	+	1	18
 
 > ~/devopsscripts/ganesh.html
 	*	1757779215	0
